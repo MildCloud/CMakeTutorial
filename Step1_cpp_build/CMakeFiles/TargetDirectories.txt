@@ -1,0 +1,3 @@
+/home/tianshu/CMakeTutorial/Step1_cpp_build/CMakeFiles/Tutorial.dir
+/home/tianshu/CMakeTutorial/Step1_cpp_build/CMakeFiles/edit_cache.dir
+/home/tianshu/CMakeTutorial/Step1_cpp_build/CMakeFiles/rebuild_cache.dir
